@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row;">
+<div style="">
     <div style="display: flex; flex-direction: column;">
         <img src="https://pbs.twimg.com/profile_images/1762204546913468416/KBZhJfhC_bigger.jpg">
         <p>0g_labs</p>
