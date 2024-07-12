@@ -11,4 +11,4 @@
 
 # My links
 - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ovaheeman)](https://x.com/Ovaheeman)
-- ![](https://dcbadge.limes.pink/api/shield/844002279627030549)
+- [![](https://dcbadge.limes.pink/api/shield/844002279627030549)](https://discord.com/users/844002279627030549)
