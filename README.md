@@ -8,8 +8,6 @@
         <img src="https://pbs.twimg.com/profile_images/1787467144914931712/3uIItkW0_200x200.jpg">
 </div>
 
-<div>
-        ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-</div>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 # My links
