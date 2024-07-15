@@ -15,7 +15,7 @@ Hello! I'm **Ovaheeman**, a passionate **DevOps Engineer** 🚀 with a knack for
 - **Containerization**: Skilled in Docker and Kubernetes for container orchestration 🐳.
 - **Monitoring & Logging**: Implementing robust monitoring and logging solutions using Prometheus, Grafana, and ELK stack 📊.
 
-## Hobbies & Interests 🎉
+## Hobbies & Interests ![icons8-частичная-облачность](https://github.com/user-attachments/assets/cda1029d-5782-497c-9b41-22a179862756)
 
 - **Blockchain Enthusiast**: Keeping up with the latest trends and developments in the blockchain space 🧩.
 - **Tech Community**: Actively participating in tech meetups and contributing to open-source projects 🌍.
