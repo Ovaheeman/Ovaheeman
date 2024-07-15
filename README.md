@@ -1,7 +1,7 @@
 # About Me
-![icons8-счастливый](https://github.com/user-attachments/assets/4a1cf932-cf4a-41d0-8e2b-1a62e64f43ef)
 
-Hello! I'm **Ovaheeman** 👋, a passionate **DevOps Engineer** 🚀 with a knack for managing and maintaining a plethora of **validator nodes** across various projects 🌐. My journey in the tech world has been fueled by my love for automation, scalability, and reliability 🛠️.
+
+Hello! I'm **Ovaheeman** ![icons8-счастливый](https://github.com/user-attachments/assets/4a1cf932-cf4a-41d0-8e2b-1a62e64f43ef), a passionate **DevOps Engineer** 🚀 with a knack for managing and maintaining a plethora of **validator nodes** across various projects 🌐. My journey in the tech world has been fueled by my love for automation, scalability, and reliability 🛠️.
 
 ## What I Do 💼
 
