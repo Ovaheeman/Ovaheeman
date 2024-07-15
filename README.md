@@ -15,20 +15,26 @@ Hello! I'm **Ovaheeman**, a passionate **DevOps Engineer** 🚀 with a knack for
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 
-## What I Do ![icons8-валик](https://github.com/user-attachments/assets/077964ba-2797-42ed-8c65-29437998e6e3)
+<section align=center>
+<h1>What I Do</h1>
+</section>
 
 - **DevOps Engineering**: Streamlining operations and enhancing productivity through automation and continuous integration/deployment (CI/CD) pipelines 🛠️.
 - **Validator Nodes**: Running and maintaining a large number of validator nodes for different blockchain projects, ensuring security and efficiency 🔐.
 - **Cloud Infrastructure**: Designing and managing cloud infrastructure to support high-availability and fault-tolerant systems ☁️.
 
-## Skills & Expertise ![icons8-критическое-мышление](https://github.com/user-attachments/assets/a51c323d-d187-47d4-b281-6feff588dd35)
+<section align=center>
+<h1>Skills & Expertise</h1>
+</section>
 
 - **Automation**: Proficient in scripting and automation tools like Ansible, Terraform, and Jenkins 🤖.
 - **Cloud Platforms**: Experienced with AWS, Azure, and Google Cloud Platform ☁️.
 - **Containerization**: Skilled in Docker and Kubernetes for container orchestration 🐳.
 - **Monitoring & Logging**: Implementing robust monitoring and logging solutions using Prometheus, Grafana, and ELK stack 📊.
 
-## Hobbies & Interests ![icons8-частичная-облачность](https://github.com/user-attachments/assets/cda1029d-5782-497c-9b41-22a179862756)
+<section align=center>
+<h1>Hobbies & Interests</h1>
+</section>
 
 - **Blockchain Enthusiast**: Keeping up with the latest trends and developments in the blockchain space 🧩.
 - **Tech Community**: Actively participating in tech meetups and contributing to open-source projects 🌍.
@@ -36,8 +42,9 @@ Hello! I'm **Ovaheeman**, a passionate **DevOps Engineer** 🚀 with a knack for
 
 Feel free to connect with me to discuss all things DevOps and blockchain! Let's build something amazing together 🚀.
 
-# My links ![icons8-ссылка](https://github.com/user-attachments/assets/ccdd6e3e-5256-463f-99af-578d357d8ab8)
-
+<section align=center>
+<h1>My links</h1>
+</section>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ovaheeman)](https://x.com/Ovaheeman)
 [![](https://dcbadge.limes.pink/api/shield/844002279627030549)](https://discord.com/users/844002279627030549)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuhuhamzat931@gmail.com)
