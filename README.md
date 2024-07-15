@@ -8,7 +8,7 @@ Hello! I'm **Ovaheeman**, a passionate **DevOps Engineer** 🚀 with a knack for
 - **Validator Nodes**: Running and maintaining a large number of validator nodes for different blockchain projects, ensuring security and efficiency 🔐.
 - **Cloud Infrastructure**: Designing and managing cloud infrastructure to support high-availability and fault-tolerant systems ☁️.
 
-## Skills & Expertise 🧠
+## Skills & Expertise ![icons8-критическое-мышление](https://github.com/user-attachments/assets/a51c323d-d187-47d4-b281-6feff588dd35)
 
 - **Automation**: Proficient in scripting and automation tools like Ansible, Terraform, and Jenkins 🤖.
 - **Cloud Platforms**: Experienced with AWS, Azure, and Google Cloud Platform ☁️.
