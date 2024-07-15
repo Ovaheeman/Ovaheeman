@@ -3,9 +3,9 @@
 </section>
 
 Hello! I'm **Ovaheeman**, a passionate **DevOps Engineer** 🚀 with a knack for managing and maintaining a plethora of **validator nodes** across various projects 🌐. My journey in the tech world has been fueled by my love for automation, scalability, and reliability 🛠️.
-
-# My Experience ![icons8-папка](https://github.com/user-attachments/assets/b57a213b-1c60-4f6f-b429-193e5e19802d)
-
+<section align=center>
+<h1>My Experience</h1>
+</section>
 <div style="align: center">
         <img src="https://pbs.twimg.com/profile_images/1762204546913468416/KBZhJfhC_200x200.jpg">
         <img src="https://pbs.twimg.com/profile_images/1666366346492542977/ywO_kmkx_200x200.jpg">
