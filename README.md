@@ -45,6 +45,7 @@ Feel free to connect with me to discuss all things DevOps and blockchain! Let's 
 <section align=center>
 <h1>My links</h1>
 </section>
+
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ovaheeman)](https://x.com/Ovaheeman)
 [![](https://dcbadge.limes.pink/api/shield/844002279627030549)](https://discord.com/users/844002279627030549)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuhuhamzat931@gmail.com)
