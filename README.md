@@ -2,7 +2,7 @@
 
 Hello! I'm **Ovaheeman**, a passionate **DevOps Engineer** 🚀 with a knack for managing and maintaining a plethora of **validator nodes** across various projects 🌐. My journey in the tech world has been fueled by my love for automation, scalability, and reliability 🛠️.
 
-## What I Do 💼
+## What I Do ![icons8-валик](https://github.com/user-attachments/assets/077964ba-2797-42ed-8c65-29437998e6e3)
 
 - **DevOps Engineering**: Streamlining operations and enhancing productivity through automation and continuous integration/deployment (CI/CD) pipelines 🛠️.
 - **Validator Nodes**: Running and maintaining a large number of validator nodes for different blockchain projects, ensuring security and efficiency 🔐.
