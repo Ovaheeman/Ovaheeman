@@ -36,6 +36,6 @@ Feel free to connect with me to discuss all things DevOps and blockchain! Let's 
 
 # My links ![icons8-ссылка](https://github.com/user-attachments/assets/ccdd6e3e-5256-463f-99af-578d357d8ab8)
 
-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ovaheeman)](https://x.com/Ovaheeman)
-- [![](https://dcbadge.limes.pink/api/shield/844002279627030549)](https://discord.com/users/844002279627030549)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuhuhamzat931@gmail.com)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ovaheeman)](https://x.com/Ovaheeman)
+[![](https://dcbadge.limes.pink/api/shield/844002279627030549)](https://discord.com/users/844002279627030549)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuhuhamzat931@gmail.com)
