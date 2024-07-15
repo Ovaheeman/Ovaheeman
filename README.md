@@ -34,7 +34,8 @@ Feel free to connect with me to discuss all things DevOps and blockchain! Let's 
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 
-# My links
+# My links ![icons8-ссылка](https://github.com/user-attachments/assets/ccdd6e3e-5256-463f-99af-578d357d8ab8)
+
 - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ovaheeman)](https://x.com/Ovaheeman)
 - [![](https://dcbadge.limes.pink/api/shield/844002279627030549)](https://discord.com/users/844002279627030549)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuhuhamzat931@gmail.com)
